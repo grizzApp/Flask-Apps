@@ -1,0 +1,34 @@
+# Folder virtual environment
+env/
+.venv/
+
+# File Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+*.db
+instance/
+
+# VSCode settings
+.vscode/
+
+# Environment variable file
+.env
+
+# Log dan file sementara
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Gunicorn/PID/temp
+*.pid
+*.seed
+
+# MacOS & Linux trash/temp
+.DS_Store
+Thumbs.db
